@@ -1,0 +1,13 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Pyenv Stuff
+.python-version
+venv
+env
+
+# VS Code
+.vscode/
+
